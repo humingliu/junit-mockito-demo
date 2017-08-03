@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
-        <!-- Dependency for JUnit11 -->
+        <!-- Dependency for JUnit -->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
